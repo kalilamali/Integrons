@@ -52,6 +52,11 @@ python3 mrs.py
 python3 mrs.py > report.tsv
 ```
 # FAQ:
+
+group_intfinder.py uses kma's location:\
+/usr/bin/kma\
+if kma is not in that location please update the script.
+
 If you get:\
 ModuleNotFoundError: No module named 'tabulate'\
 ModuleNotFoundError: No module named 'cgecore'\
