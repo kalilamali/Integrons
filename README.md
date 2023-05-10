@@ -1,4 +1,4 @@
-# IntFinder validation
+# IntFinder development and validation
 
 This repository contains the scripts necessary to reproduce the validation of IntFinder (version 1.0).
 
@@ -65,3 +65,10 @@ It can be fixed with the following comands:
 pip3 install tabulate
 pip3 install cgecore
 ```
+
+# Notes:
+Online website:
+https://cge.food.dtu.dk/services/IntFinder-1.0
+
+IntFinder database expanded to detect integron classes 1, 2, and 3:
+https://figshare.com/articles/dataset/intfinder_db/14096915
